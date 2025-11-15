@@ -112,15 +112,12 @@ This makes the project easy to understand even for non-technical readers.
 
 ---
 
-## 🔒 Ethical Notes
+## 🔒 Note
 
 All data is completely synthetic.  
 No real customer information is used.  
-This project follows ethical and GDPR-safe practices.
 
 ---
 
-## 📬 Contact
-
-If you want to explore or ask questions, feel free to open an issue.  
-Thank you for reading my project!
+## 📬 ID
+24079307
