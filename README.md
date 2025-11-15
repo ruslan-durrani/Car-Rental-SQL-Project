@@ -26,35 +26,9 @@ All data in this project is **fake** and created using the Faker library.
 
 ---
 
-## 📁 Project Structure
+## 📁 Structure
+<img width="606" height="656" alt="image" src="https://github.com/user-attachments/assets/f395aa3d-2e80-4ebf-b310-fc00da27bb08" />
 
-│
-├── README.md
-│
-├── database/
-│ ├── car_rental.db
-│ ├── car_rental_schema.sql
-│ ├── erd_diagram.png
-│ └── sample_queries.sql
-│
-├── data_generation/
-│ ├── data_generation_script.py
-│ └── faker_requirements.txt
-│
-├── notebooks/
-│ ├── Car_Rental_Safe_Full_Analysis_Notebook.ipynb
-│ └── visuals/
-│ ├── monthly_revenue.png
-│ ├── popular_cars.png
-│ └── branch_revenue.png
-│
-├── tests/
-│ ├── test_schema.sql
-│ ├── test_dataquality.sql
-│ ├── test_queries.sql
-│ └── python_tests_example.py
-│
-└── .gitignore
 
 
 ---
