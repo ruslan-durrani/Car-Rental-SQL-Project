@@ -28,7 +28,8 @@ All data in this project is **fake** and created using the Faker library.
 
 ## 📁 Structure
 
-![alt text](image.png)
+<img width="540" height="1066" alt="image" src="https://github.com/user-attachments/assets/148fc78d-b94e-4ac1-a680-2b7900805cbb" />
+
 
 ---
 
